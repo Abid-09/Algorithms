@@ -1,1 +1,1 @@
-This folder contain soltion of problems from leetcode.
+This folder contain solution of problems from leetcode.
