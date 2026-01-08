@@ -1,7 +1,4 @@
-/**
- * @param {number[]} nums
- * @return {number}
- */
+
 var missingNumber = function(nums) {
     let expectedSum = 0;
     let actualSum = 0;
